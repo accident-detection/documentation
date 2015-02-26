@@ -7,7 +7,7 @@ What every repo should have:
 
 In this folder you place all libraries that you use in your module.
 
-* ```src/```
+* ```/```
 
 In this folder you will place all source files for your module
 
