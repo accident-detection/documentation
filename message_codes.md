@@ -1,6 +1,8 @@
 Message codes
 ===================
 
+The SD module pools other modules every period. It then stores the code on the SD card.
+
 
 ### GPS related codes (1xx)
 
