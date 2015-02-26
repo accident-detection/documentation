@@ -19,3 +19,8 @@ The SD module pools other modules every period. It then stores the code on the S
 * 302 - DHCP Lookup failed
 * 303 - Server contact failed
 * 304 - Wrong API key
+
+### SD related codes (4xx)
+
+* 400 - OK
+* 401 - Storage low
