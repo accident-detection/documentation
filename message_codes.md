@@ -8,7 +8,7 @@ The SD module pools other modules every period. It then stores the code on the S
 
 * 100 - OK
 
-### Gyro related codes (2xx)
+### AccidentDetection related codes (2xx)
 
 * 200 - OK
 
