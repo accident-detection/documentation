@@ -30,7 +30,7 @@ The SD module pools other modules every period. It then stores the code on the S
 ### SD related codes (4xx)
 
 * 400 - OK
-* 401 - Storage low
+* 401 - Collected data is wrong
 * 402 - Unable to make communication with the sensors (time-out error)
 * 403 - Data pin isn't connected correctly
 * 404 - Data pin connected to GND or very low voltage
