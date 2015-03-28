@@ -31,3 +31,8 @@ The SD module pools other modules every period. It then stores the code on the S
 
 * 400 - OK
 * 401 - Storage low
+* 402 - Unable to make communication with the sensors (time-out error)
+* 403 - Data pin isn't connected correctly
+* 404 - Data pin connected to GND or very low voltage
+* 405 - Data pin connected to high voltage (+3.3V or greater)
+* 410 - Unknown error
