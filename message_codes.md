@@ -7,6 +7,9 @@ The SD module pools other modules every period. It then stores the code on the S
 ### GPS related codes (1xx)
 
 * 100 - OK
+* 101 - Location not available.
+* 102 - Speed not available.
+* 103 - GPS not responding.
 
 ### AccidentDetection related codes (2xx)
 
