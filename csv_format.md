@@ -3,7 +3,7 @@ CSV format
 
 The CSV record is formated as follows:
 
-```time```;```date```;```GPS long```;```GPS lat```;```GPS alt```;```GPS message code```
+```time and date```;```AD code```;```GPS code```;```GPS long```;```GPS lat```;
 
 --------------------
 
@@ -13,9 +13,9 @@ JSON record is formated as follows:
   data = {
     time,
     date,
-    GPSlong,
-    GPSlat,
-    GPSalt,
+    ADcode,
     GPScode,
+    GPSlong,
+    GPSlat
   }  
 ```
