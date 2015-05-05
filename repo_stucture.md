@@ -7,14 +7,13 @@ What every repo should have:
 
 In this folder you place all libraries that you use in your module.
 
-* ```src/```
+* ```/```
 
 In this folder you will place all source files for your module
 
 * ```LICENSE```
 
-Every repo should have an MIT license file. The license will be with your name
-and this year (2015.).
+Every repo should have an MIT license file. The license will be for 2015 accident-detection.
 
 * ```README.md```
 
